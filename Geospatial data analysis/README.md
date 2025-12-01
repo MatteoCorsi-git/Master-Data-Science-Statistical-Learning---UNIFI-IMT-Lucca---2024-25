@@ -1,7 +1,3 @@
-Here is the English version of the README.md file, written in a professional tone, without emoticons, and ready for copy-pasting.
-
------
-
 # Geospatial Analysis of 2022 Italian General Elections
 
 This repository contains a geospatial data analysis project developed in **R**. The project investigates the results of the 2022 Italian General Election (Chamber of Deputies), with a specific focus on the spatial distribution and determinants of the vote for the **Center-Right coalition**.
